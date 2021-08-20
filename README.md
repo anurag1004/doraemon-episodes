@@ -1,5 +1,7 @@
 ## Doraemon All Episodes Downloader [1-18]
+
 <p align="center"><img src="https://github.com/anurag0608/doraemon-episodes/blob/master/images/doraemon.png" width="300" /></p>
+
 I don't know why I made this xD. One day I was searching through the internet to watch Doraemon Hindi Episodes  (😌To relive my old childhood days..) <br />
 But couldn't able to find a single website which lets me download all seasons at once😑. <br />
 Almost all websites just mentioned the link for each individual episodes
@@ -9,7 +11,8 @@ First I selected a website which has currently 18 seasons in it, then I scraped 
 After that I wrote a function for downloading those episodes or season. <br />
 It took me three hours to write this script😪.<br />
 Hope it'll be useful to someone. <br />
-Below I wrote some steps... No coding knowledge is needed to watch doraemon. 😆😆😆😆
+Below I wrote some steps... No coding knowledge is needed to watch doraemon😆😆😆😆
+
 ### Steps
 - Install [NodeJs](https://nodejs.dev/)
 - Git Clone the project or download zip directly
