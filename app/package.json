@@ -1,0 +1,21 @@
+{
+  "name": "downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "download",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AxDu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.10",
+    "figlet": "^1.5.2",
+    "gzip": "^0.1.0",
+    "progress": "^2.0.3",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^10.2.0"
+  }
+}
