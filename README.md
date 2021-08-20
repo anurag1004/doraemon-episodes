@@ -22,3 +22,7 @@ Now just follow the steps... It'll ask you "Which season you want to download ?"
 Just enter it and wait.. Each episode's download progress will be shown <br />
 A ``` downloads ``` folder will be created in the project root directory <br />
 All episodes will be downloaded there only with their respective season.
+
+### Screenshots
+![Npm start](https://github.com/anurag0608/doraemon-episodes/blob/master/images/entry.png)
+![Download in Progress](https://github.com/anurag0608/doraemon-episodes/blob/master/images/download_progress.png)
