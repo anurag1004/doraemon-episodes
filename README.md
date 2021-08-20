@@ -1,4 +1,5 @@
 ## Doraemon All Episodes Downloader [1-18]
+<div style="text-align:center"><img src="https://github.com/anurag0608/doraemon-episodes/blob/master/images/doraemon.png" width="300" /></div>
 I don't know why I made this xD. One day I was searching through the internet to watch Doraemon Hindi Episodes  (😌To relive my old childhood days..) <br />
 But couldn't able to find a single website which lets me download all seasons at once😑. <br />
 Almost all websites just mentioned the link for each individual episodes
