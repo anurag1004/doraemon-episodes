@@ -18,6 +18,8 @@ async function download(linkObj, num){
     // })
     await fs.promises.mkdir('./downloads/season'+num, { recursive: true }).catch(console.error);
     const url = linkObj.href;
+    if(!linkObj.title.includes(".mp4") || !linkObj.title.includes(".mkv") )
+        linkObj.title+=".mp4";
     // if already exists return
     if (fs.existsSync("./downloads/season"+num+"/"+linkObj.title)) {
         return;
@@ -138,7 +140,7 @@ async function start(){
         await fs.promises.mkdir('./downloads').catch(err=>{console.log(err)})
     }
     console.log(chalk.blue(text))
-    console.log(chalk.cyan.bold("Download Doraemon Hindi Episodes !"))
+    console.log(chalk.cyan.bold("Download Doraemon Hindi Episodes ! [From Seasons 1-18]"))
     console.log("Enter range of Seasons you want to download " + chalk.greenBright("[from-to]"))
     let from  = prompt("From (Must be a Number): ");
     let to = prompt("To (Must be a Number): ");
