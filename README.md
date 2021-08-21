@@ -20,7 +20,8 @@ Below I wrote some steps... No coding knowledge is needed to watch doraemonðŸ˜†ð
     - or download [zip](https://github.com/anurag0608/doraemon-episodes/archive/refs/heads/master.zip) and extract it anywhere you want
 - Go inside the root directory i.e ``` /doraemon-episodes/app/ ```
 - open command prompt here 
-- type ``` npm start ```
+- type ``` npm install ```
+- then ``` npm start ```
 
 Now just follow the steps... It'll ask you "Which season you want to download ?" <br />
 Just enter it and wait.. Each episode's download progress will be shown <br />
